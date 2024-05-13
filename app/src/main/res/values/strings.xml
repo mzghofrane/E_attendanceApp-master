@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">E_attendanceApp</string>
+    <string name="welcome_to_e_attendance" />
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="Click_to_Register">Click_to_Register</string>
+    <string name="welcome_to_e_attendance_app">Welcome to E-Attendance App</string>
+    <string name="REGISTER">REGISTER</string>
+    <string name="Click_to_login">Click_to_login</string>
+    <string name="Logout">Logout</string>
+    <string name="assignments">Assignments</string>
+
+    <style name="buttonattend" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@android:color/white</item>
+    </style>
+</resources>

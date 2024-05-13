@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "35122305206",
+    "firebase_url": "https://e-attendanceapp-e363e-default-rtdb.firebaseio.com",
+    "project_id": "e-attendanceapp-e363e",
+    "storage_bucket": "e-attendanceapp-e363e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35122305206:android:801887c9bfe7e407a1ee17",
+        "android_client_info": {
+          "package_name": "com.example.e_attendanceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHglj7zSun_mP_A9xU8v4RY-yxGHAMvpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
